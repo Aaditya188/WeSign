@@ -1,6 +1,6 @@
-## [Demo Video]()
+## [Demo Video](https://youtu.be/94VjKWR2mp4)
 
-![Demo Gif]()
+![Demo Gif](https://youtu.be/94VjKWR2mp4)
 
 ## What our app does:
 
