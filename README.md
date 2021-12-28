@@ -1,7 +1,5 @@
 ## [Demo Video](https://youtu.be/94VjKWR2mp4)
 
-![Demo Gif](https://youtu.be/94VjKWR2mp4)
-
 ## What our app does:
 
 WeSign is an innovative app that closes the communication gap faced by members of the Deaf and Hard of Hearing communities, who primarily use American Sign Language (ASL) to communicate. WeSign uses Artificial Intelligence and Machine Learning to recognize ASL signs and convert them into text and audio, allowing Deaf individuals to use sign language to communicate with those who are unfamiliar with it. WeSign has the potential to make a positive impact for the approximately 600,000 Deaf individuals in the US.
