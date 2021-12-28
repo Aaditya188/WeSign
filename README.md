@@ -1,6 +1,6 @@
-## [Demo Video](https://www.youtube.com/watch?v=vfPoTQ22kvE)
+## [Demo Video]()
 
-![Demo Gif](https://s8.gifyu.com/images/WeSign.gif)
+![Demo Gif]()
 
 ## What our app does:
 
