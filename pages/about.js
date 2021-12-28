@@ -2,11 +2,11 @@ const Page = () => {
   return (
     <div style={{ marginTop: '2em' }}>
       <div className="jumbotron text-center">
-        <h1>Signify - ASL Translator</h1>
+        <h1>WeSign - ASL Translator</h1>
         <h4>
-          Signify uses machine learning to transform webcam input into readable
+          WeSign uses machine learning to transform webcam input into readable
           sign language using a variety of different techniques. The series of
-          texts below detail the steps taken for signify to translate an image
+          texts below detail the steps taken for WeSign to translate an image
           into a final word.
         </h4>
       </div>

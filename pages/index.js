@@ -195,7 +195,7 @@ export default function Page() {
         className="text-center text-heading"
         style={{ marginBottom: '0.5em' }}
       >
-        <FontAwesomeIcon icon={faHandPaper} /> SIGNify
+        <FontAwesomeIcon icon={faHandPaper} /> WeSign
       </h1>
       {loading && (
         <div className="row justify-content-center">
